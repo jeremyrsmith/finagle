@@ -7,6 +7,7 @@ you're using Finagle. Or even better, add the links yourself (please use HTTPS
 URLs if possible) and [submit a pull request][1]!
 
 * [Attendify](https://attendify.com)
+* [Acorns](https://www.acorns.com)
 * [Box](https://www.box.com/)
 * [Chartboost](https://www.chartboost.com/)
 * [Crimson Hexagon](http://www.crimsonhexagon.com/)
